@@ -8707,7 +8707,7 @@ http://www.oceans-wien.com/plugins/system/plugin_googlemap2_proxy.php?url=;BYPAS
     'https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/sharer/sharer.php?u=',
     'https://drive.google.com/viewerng/viewer?url=',
     'http://www.google.com/translate?u=',
-    'http://www.google.com/Alva07
+    'http://www.google.com/Alva07',
     'https://developers.google.com/speed/pagespeed/insights/?url=',
     'https://replit.com/', 'https://check-host.net/', 'https://obaspro.my.id/',
     'http://www.oldbrogue.com/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=',
